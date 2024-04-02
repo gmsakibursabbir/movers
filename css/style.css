@@ -14,7 +14,7 @@
 .bg-imgx{
   background-image: url(../images/hero-bg.png);
   object-fit: cover;
-  height: 80vh;
+  height: 85vh;
   width: 100%;
 }
 .topinfo-left{
